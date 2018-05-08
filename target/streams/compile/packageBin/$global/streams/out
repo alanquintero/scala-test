@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/alanquintero/Documents/workspace/HelloWorld/target/scala-2.12/helloworld_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	apple[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alanquintero/Documents/workspace/HelloWorld/target/scala-2.12/classes/apple[0m
+[0m[[0m[0mdebug[0m] [0m[0m	apple/hello[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alanquintero/Documents/workspace/HelloWorld/target/scala-2.12/classes/apple/hello[0m
+[0m[[0m[0mdebug[0m] [0m[0m	apple/hello/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alanquintero/Documents/workspace/HelloWorld/target/scala-2.12/classes/apple/hello/Hello.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
